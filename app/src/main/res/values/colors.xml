@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaPlanAcik">#80FFFFFF</color>
+    <color name="arkaPlan">#CFD3D3</color>
+    <color name="yaziRenk">#0B1C26</color>
+    <color name="yaziRenk2">#636363</color>
+    <color name="butonBordo">#730202</color>
+    <color name="kahve">#260104</color>
+    <color name="toolbar">#4b4b4b</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="carName">Porsche</string>
+    <string name="carModel">Porsche 911 Targa</string>
+    <string name="carDate">2021</string>
+    <string name="carPerson">2 Kişilik</string>
+    <string name="carDoor">2 Kapılı</string>
+    <string name="carDesc">TANITIM</string>
+    <string name="carDescText">Porsche 911 Targa, klasik tasarımı modern performansla harmanlar; benzersiz bir açılır tavan ve güçlü motoruyla gerçek sürüş tutkunları için üretilmiştir.</string>
+
+
+
+</resources>

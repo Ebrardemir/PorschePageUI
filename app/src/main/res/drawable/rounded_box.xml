@@ -1,0 +1,7 @@
+<!-- rounded_box.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="@color/arkaPlanAcik" /> <!-- Arka plan rengi -->
+    <corners android:radius="12dp" />   <!-- Oval köşeler -->
+</shape>

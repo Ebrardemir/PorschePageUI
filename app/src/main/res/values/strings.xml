@@ -1,0 +1,11 @@
+<resources>
+    <string name="carName">Porsche</string>
+    <string name="carModel">Porsche 911 Targa</string>
+    <string name="carDate">2021</string>
+    <string name="carPerson">2 Passengers</string>
+    <string name="carDoor">2 Doors</string>
+    <string name="carDesc">DESCRİPTİON</string>
+    <string name="carDescText">The Porsche 911 Targa blends classic design with modern performance, featuring a unique retractable roof and powerful engine built for true driving enthusiasts.</string>
+
+
+</resources>
